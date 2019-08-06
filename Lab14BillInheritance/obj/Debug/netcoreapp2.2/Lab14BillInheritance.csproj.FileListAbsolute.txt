@@ -1,0 +1,11 @@
+C:\Users\tweed\source\repos\Lab14BillInheritance\Lab14BillInheritance\bin\Debug\netcoreapp2.2\Lab14BillInheritance.deps.json
+C:\Users\tweed\source\repos\Lab14BillInheritance\Lab14BillInheritance\bin\Debug\netcoreapp2.2\Lab14BillInheritance.runtimeconfig.json
+C:\Users\tweed\source\repos\Lab14BillInheritance\Lab14BillInheritance\bin\Debug\netcoreapp2.2\Lab14BillInheritance.runtimeconfig.dev.json
+C:\Users\tweed\source\repos\Lab14BillInheritance\Lab14BillInheritance\bin\Debug\netcoreapp2.2\Lab14BillInheritance.dll
+C:\Users\tweed\source\repos\Lab14BillInheritance\Lab14BillInheritance\bin\Debug\netcoreapp2.2\Lab14BillInheritance.pdb
+C:\Users\tweed\source\repos\Lab14BillInheritance\Lab14BillInheritance\obj\Debug\netcoreapp2.2\Lab14BillInheritance.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\Lab14BillInheritance\Lab14BillInheritance\obj\Debug\netcoreapp2.2\Lab14BillInheritance.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\Lab14BillInheritance\Lab14BillInheritance\obj\Debug\netcoreapp2.2\Lab14BillInheritance.AssemblyInfoInputs.cache
+C:\Users\tweed\source\repos\Lab14BillInheritance\Lab14BillInheritance\obj\Debug\netcoreapp2.2\Lab14BillInheritance.AssemblyInfo.cs
+C:\Users\tweed\source\repos\Lab14BillInheritance\Lab14BillInheritance\obj\Debug\netcoreapp2.2\Lab14BillInheritance.dll
+C:\Users\tweed\source\repos\Lab14BillInheritance\Lab14BillInheritance\obj\Debug\netcoreapp2.2\Lab14BillInheritance.pdb
